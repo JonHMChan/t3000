@@ -1,5 +1,7 @@
 # T3000
 
+*by [@jonhmchan](https://twitter.com/jonhmchan)*
+
 This is an implementation of the [T3 Stack](https://create.t3.gg/) project ([Discord](https://t3.gg/discord)) bootstrapped with [create-t3-app](https://github.com/t3-oss/create-t3-app). It is an expansion of this repository [t3-complete](https://github.com/juliusmarminge/t3-complete) to include more opinionated technologies and patterns that are being used more frequently by its creator, [@jonhmchan](https://github.com/jonhmchan) for new projects.
 
 To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
